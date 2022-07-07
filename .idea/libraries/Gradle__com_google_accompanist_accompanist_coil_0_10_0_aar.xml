@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.accompanist:accompanist-coil:0.10.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6d2842801bcdd76ad95ea9193706b88a/transformed/accompanist-coil-0.10.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/990af3394385c67e1349e0ab1c3a822f/transformed/accompanist-coil-0.10.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c49174a24f4605dffa6942ec1314180f/transformed/accompanist-coil-0.10.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f9c81dd9f11d1dc39087ae4b4c425f12/transformed/accompanist-coil-0.10.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dccab44df9d3e45208a6c9d7665d8d31/transformed/accompanist-coil-0.10.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/afc014a4e9aa7d6343d8e16dd6bd42a2/transformed/accompanist-coil-0.10.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/afc014a4e9aa7d6343d8e16dd6bd42a2/transformed/accompanist-coil-0.10.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/afc014a4e9aa7d6343d8e16dd6bd42a2/transformed/accompanist-coil-0.10.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-coil/0.10.0/3bd330259f210a06fdf771d71e0071c1e14da894/accompanist-coil-0.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.accompanist/accompanist-coil/0.10.0/f281138352b0cea7a4ad692659bbe716b2a924a3/accompanist-coil-0.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

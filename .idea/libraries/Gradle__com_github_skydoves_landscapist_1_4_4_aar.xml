@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.skydoves:landscapist:1.4.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/152b7f2948b63f5c034e72d768e83465/transformed/landscapist-1.4.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2c9a2dff1c2ccd526bcb0c8e42b725e0/transformed/landscapist-1.4.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4c8a33566a3e0adfee14cb4a0692589e/transformed/landscapist-1.4.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0eb14668da97e2c9a72cc8fae962b8cf/transformed/landscapist-1.4.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f19322ed5f4e12ce1349ee5f77f8fc8c/transformed/landscapist-1.4.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c48000c806eeb93a97c7a7e62d447a36/transformed/landscapist-1.4.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c48000c806eeb93a97c7a7e62d447a36/transformed/landscapist-1.4.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c48000c806eeb93a97c7a7e62d447a36/transformed/landscapist-1.4.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/landscapist/1.4.4/21f591e2636ba9bfa02b3ee09b3b61f2ff3d85ac/landscapist-1.4.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/landscapist/1.4.4/8725b37af920a89c992fbb437ca26881e4014bd0/landscapist-1.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
